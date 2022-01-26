@@ -1,0 +1,29 @@
+#showsketch{
+    float:right;
+}
+#time{
+    float: right;
+    margin-right:100px;
+    font-size:30px;
+}
+#score{
+    margin-left:30px;
+    font-size:30px;
+}
+body{
+    background-color: lightblue;
+}
+h1{
+    background-color: lightcoral;
+    margin-top:0px;
+}
+#drawsketch{
+    color: mediumvioletred;
+    font-size:20px;
+}
+#yoursketch{
+    font-size: 20px;
+}
+#confidence{
+    font-size:20px;
+}
